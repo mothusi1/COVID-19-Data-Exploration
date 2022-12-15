@@ -48,5 +48,5 @@ Select Location, date,population, MAX(total_cases) AS HighestInfectionCount, MAX
 From CovidDeaths
 --Where location like '%states%' --IN THE USA
 where continent is not null
-GROUP BY Location, population, date
+GROUP BY Location, population, date 
 order by InfectedPopulationPercentage desc
