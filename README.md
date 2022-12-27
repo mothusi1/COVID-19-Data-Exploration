@@ -11,9 +11,8 @@ The source of our data is taken from [Our World in Data](https://ourworldindata.
 1. Microsoft Excel
 2. Azure Data Studio 
 3. Docker and native CLI (to host SqlServer on my machine)
-4. Docker (to host SqlServer on my machine)
-5. SQL
-6. Tableau 
+4. SQL
+5. Tableau 
 
 ## Included in this analysis:
 
