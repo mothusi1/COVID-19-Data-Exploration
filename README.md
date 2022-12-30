@@ -6,6 +6,8 @@ This was another project of interest relevant to our times. The purpose behind t
 
 The source of our data is taken from [Our World in Data](https://ourworldindata.org/covid-deaths). The Economist Intelligence Unit's world-class forecasts are updated **every month** to incorporate the latest economic and political events. The latest data together with timely forecasts makes WorldData one of the *fastest* and most *reliable sources* of economic data.
 
+This data runs from the beginning of January 2020, when the pandemic struck, until year ending 2022. Included is forecasting of COVID infection rate all through till December 2023. 
+
 ## Tools Used:
 
 1. Microsoft Excel
