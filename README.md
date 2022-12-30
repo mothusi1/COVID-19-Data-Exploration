@@ -1,4 +1,4 @@
-# COVID-19-Data-Exploration
+# COVID-19 Data Exploration
 
 This was another project of interest relevant to our times. The purpose behind this project was to hone my own data interpretation skills and to give you insight to skills I possess. 
 
