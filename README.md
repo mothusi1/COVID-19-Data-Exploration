@@ -21,4 +21,4 @@ The source of our data is taken from [Our World in Data](https://ourworldindata.
 3. Data Cleaning and Sorting
 4. Tableau Dashboard
 
-Click [HERE](https://public.tableau.com/app/profile/mothusi3587/viz/COVIDDashboard_16715836551430/Dashboard1?publish=yes) to see the accompanying Dashboard
+Click [HERE](https://public.tableau.com/app/profile/mothusi8530/viz/COVID-19Dashboard_16724293724180/COVID19Dashboard) to see the accompanying Dashboard
